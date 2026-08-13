@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "3.0.0",
+  "siteId": "finest-sculpture",
+  "displayName": "FINEST SCULPTURE",
+  "productionDomain": "finestsculpture.com",
+  "storefrontUrl": "https://finestsculpture.com/",
+  "shopifyStoreHandle": "c4055d-2",
+  "shopifyPermanentDomain": "c4055d-2.myshopify.com",
+  "shopifyArticlesUrl": "https://admin.shopify.com/store/c4055d-2/content/articles",
+  "targetBlog": "News",
+  "homepageModuleHeading": "Our Latest Blog Post",
+  "minimumInternalLinks": 2,
+  "internalLinkDestination": "direct-product-pages-only",
+  "productPathPrefix": "/products/",
+  "imageCount": 6,
+  "publicationLanguage": "en-US",
+  "reviewLanguage": "zh-CN"
+}
